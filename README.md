@@ -48,7 +48,8 @@ requirements.txt
 ```
 ## Acceso exitoso API
 
-![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/2e886af6-63d4-4515-9d6e-3eb5a6a2459a)
+![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/663da965-b4e2-4407-9fe7-09a6ccaa13cc)
+
 
 
 ## Imagenes
