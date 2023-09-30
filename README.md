@@ -57,12 +57,12 @@ Here are some related projects
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@NElpi](https://github.com/N3lpi)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Opensource]
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+Para soporte, contactarme.
