@@ -48,6 +48,16 @@ requirements.txt
   requests
   pymongo
 ```
+## Variable de entorno
+
+Cadena de conexion
+
+```bash
+  MONGO_USER=XXXXXX
+  MONGO_PASSWORD=XXXXXX
+  API_KEY=XXXXXX
+```
+
 ## Acceso exitoso API
 
 ![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/663da965-b4e2-4407-9fe7-09a6ccaa13cc)
