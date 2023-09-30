@@ -53,7 +53,8 @@ requirements.txt
 ## Acceso exitoso consulta información API
 ![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/a7580e7a-66c4-4c5a-8ee2-2d5b84321857)
 
-
+## Acceso exitoso parametros consulta información API
+![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/762364ce-f235-4430-a908-b772631520fc)
 
 ## Imagenes
 
