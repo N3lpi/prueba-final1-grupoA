@@ -26,6 +26,8 @@ Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y h
 * requests
 * pymongo
 * flask
+* pip
+* mongodb
 
 ## Instalación
 
