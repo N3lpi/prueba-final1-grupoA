@@ -2,7 +2,7 @@
 ## 🚀 Acerca de mi
 Entusiasmado por la tecnología además desarrollando mi conocimiento respecto del tratamiento de datos.
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/N3lpi))
 # Prueba final de la materia Tratamiento de datos
 
 El objetivo de la prueba final es obtener una visión general del tratamiento de datos desde su obtención hasta su almacenado.
