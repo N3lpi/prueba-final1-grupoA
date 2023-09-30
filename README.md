@@ -9,15 +9,15 @@ El objetivo de la prueba final es obtener una visión general del tratamiento de
 
 ## Descripción parte 1
 
-Consigue extraer datos de una fuente de datos online.
+Consigue extraer datos de una fuente de datos online. Completado
 
 ## Descripción parte 2
 
-Almacenar esta información de forma estructurada en una base de datos en la nube.
+Almacenar esta información de forma estructurada en una base de datos en la nube. Completado
 
 ## Descripción parte 3
 
-Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y haga algo (puede ser simplemente un print) o algo mas elaborado como un buscador web.
+Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y haga algo (puede ser simplemente un print) o algo mas elaborado como un buscador web. Completado
 
 ### Dependencias
 * PyCharm Community Edition 2023.2.1
@@ -67,15 +67,15 @@ requirements.txt
 
 Aplicaciones utilizadas
 
-[Clic Me](https://excalidraw.com/) https://excalidraw.com/
+[Clic Me](https://excalidraw.com/)
 
 ## Authors
 
-- [@NElpi](https://github.com/N3lpi)
+- [@N3lpi](https://github.com/N3lpi)
 
 ## License
 
-[Opensource]
+[Opensource](https://opensource.com)
 
 ## Support
 
