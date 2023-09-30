@@ -13,7 +13,7 @@ Consigue extraer datos de una fuente de datos online.
 
 ## Descripción parte 2
 
-Almacenar esta información de forma estrucuturada en una base de datos en la nube.
+Almacenar esta información de forma estructurada en una base de datos en la nube.
 
 ## Descripción parte 3
 
