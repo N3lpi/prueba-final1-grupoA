@@ -46,9 +46,10 @@ requirements.txt
   npm install my-project
   cd my-project
 ```
-## Diagrama
+## Acceso exitoso API
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/2e886af6-63d4-4515-9d6e-3eb5a6a2459a)
+
 
 ## Imagenes
 
