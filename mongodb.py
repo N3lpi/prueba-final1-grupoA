@@ -19,4 +19,3 @@ try:
 except Exception as e:
     print(e)
 
-client.get_database('prueba').get_collection('rafa').insert_one(document={"marca": "opel", "modelo": "omega"})

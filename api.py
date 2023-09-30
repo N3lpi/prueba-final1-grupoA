@@ -12,27 +12,15 @@ def hello_world():
     return "<p>Hello, World!</p>"
 
 
-@app.route("/api/<ticker>", methods=["GET"])
+@app.route("/estacion/<ticker>", methods=["GET"])
 def get_ticker(ticker):
-    return get_price(ticker)
+    return indi(ticker)
 
 
-@app.route("/api/<ticker>", methods=["POST"])
+@app.route("/estacion/<ticker>", methods=["POST"])
 def post_ticker(ticker):
-    document = get_price(ticker)
-    return set_price(document)
-
-
-@app.route("/api/multiple/")
-def api_multiple():
-    tickers = request.args.get('tickers')
-    tickers = tickers.split(',')
-
-    result = []
-    for t in tickers:
-        result.append(get_price(t))
-    return result
-
+    document = racha(ticker)
+    return racha(document)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)

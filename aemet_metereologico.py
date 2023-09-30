@@ -1,24 +1,21 @@
+import os
 import requests
 from mongodb import client
+from dotenv import load_dotenv
+
+def racha(ticker: str) -> dict:
+    api_key = os.getenv('API_KEY')
+    url = f"https://opendata.aemet.es/opendata/api/valores/climatologicos/normales/estacion/{ticker}/?api_key={api_key}"
+    r = requests.get(url).json()
+
+    dato = r['datos']
+
+    a=requests.get(dato).json()
+
+    indi = a['indicativo']
+    tor = a['n_tor_n']
+    mx = a['q_max_n']
 
 
-def racha(ticker: str, verbose: bool = False) -> dict:
-    url = f"https://opendata.aemet.es/opendata/sh/93cc5cfb{ticker}"
-    user_agent = {'User-agent': 'Mozilla/5.0'}
-    r = requests.get(url=url, headers=user_agent).json()
-
-    nombre = r['chart']['result'][0]['meta']['regularMarketPrice']
-    dir = r['chart']['result'][0]['meta']['currency']
-
-    if verbose:
-        print(f"{ticker}: {nombre} {dir}")
-    return {
-        "ticker": ticker,
-        "presMin": nombre,
-        "presMax": dir
-    }
 
 
-def racha(document: dict):
-    _ = client.get_database('tickers').get_collection('metereo').insert_one(document=document)
-    return 'ok'
