@@ -31,20 +31,22 @@ Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y h
 
 ## Instalación
 
-Install my-project with npm
+Creacion repositorio GitHub y clonado Pychamp
 
 ```bash
-  npm install my-project
-  cd my-project
+  Add Interpreter
+  venv - entorno virtual
 ```
 
-### Ejecución del programa
+### Ejecución requirements
 
 requirements.txt
 
-```bash
-  npm install my-project
-  cd my-project
+```
+  flask
+  python-dotenv
+  requests
+  pymongo
 ```
 ## Acceso exitoso API
 
@@ -56,15 +58,16 @@ requirements.txt
 ## Acceso exitoso parametros consulta información API
 ![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/762364ce-f235-4430-a908-b772631520fc)
 
-## Imagenes
+## Diagrama referencial
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/bbf25ce6-0f07-461e-8278-e7829aca3858)
 
-## Relacionados/Links
 
-Here are some related projects
+## Links Relacionados
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+Aplicaciones utilizadas
+
+[Clic Me](https://excalidraw.com/) https://excalidraw.com/
 
 ## Authors
 
