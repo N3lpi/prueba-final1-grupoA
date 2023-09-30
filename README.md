@@ -23,6 +23,9 @@ Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y h
 * PyCharm Community Edition 2023.2.1
 * Mongodb Atlas cloud
 * GitHub
+* requests
+* pymongo
+* flask
 
 ## Instalación
 
@@ -35,7 +38,7 @@ Install my-project with npm
 
 ### Ejecución del programa
 
-Install my-project with npm
+requirements.txt
 
 ```bash
   npm install my-project
